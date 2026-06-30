@@ -42,6 +42,10 @@ export default function Home() {
             Generate 3 scroll-stopping short video scripts in 30 seconds. For TikTok, YouTube Shorts & Instagram Reels.
           </p>
 
+          <p className="mt-4 text-sm text-slate-400">
+            ✨ Already used by <span className="font-semibold text-indigo-400">1,000+ creators</span> worldwide
+          </p>
+
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Link
               href="/generate"
